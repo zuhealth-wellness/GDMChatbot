@@ -262,3 +262,9 @@ For issues or questions, please refer to:
 - [Neo4j Documentation](https://neo4j.com/docs/)
 - [OpenAI API Documentation](https://platform.openai.com/docs/)
 - [LangChain Documentation](https://python.langchain.com/)
+
+---
+
+## Note
+
+In parallel, we have prototyped a live GDM chatbot based on this paper, where beta-testers will be able to access a public URL to interact with our model and ask domain-specific questions about gestational diabetes. All announcements, deployment steps, and progress logs will be maintained at the GitHub repository.
