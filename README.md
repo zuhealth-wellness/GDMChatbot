@@ -6,7 +6,7 @@ This project aims to build a Graph-RAG (Retrieval-Augmented Generation) architec
 
 **Citation:**
 
-F. Ruba, A. Nazir, E. Evangelista, S. Bukhari, L. bin Mohd Loft & R. Sharma. (2025.) Data Repository for GraphRAG-Architecture-of-a-local-LLM-for-Gestational-Diabetes-Mellitus. Available at: https://github.com/zuhealth-wellness/GDMChatbot
+F. Ruba, A. Nazir, E. Evangelista, S. Bukhari, L. bin Mohd Lofti & R. Sharma. (2025.) Data Repository for GraphRAG-Architecture-of-a-local-LLM-for-Gestational-Diabetes-Mellitus. Available at: https://github.com/zuhealth-wellness/GDMChatbot
 
 ---
 
