@@ -6,7 +6,7 @@ This project aims to build a Graph-RAG (Retrieval-Augmented Generation) architec
 
 **Citation:**
 
-F. Ruba, A. Nazir, E. Evangelista, S. Bukhari, L. bin Mohd Lofti & R. Sharma. (2025.) Data Repository for GraphRAG-Architecture-of-a-local-LLM-for-Gestational-Diabetes-Mellitus. Available at: https://github.com/zuhealth-wellness/GDMChatbot
+F. Ruba, A. Nazir, E. Evangelista, S. Bukhari, L. bin Mohd Loft & R. Sharma. (2025.) Data Repository for GraphRAG-Architecture-of-a-local-LLM-for-Gestational-Diabetes-Mellitus. Available at: https://github.com/fathima-ruba/GraphRAG-Architecture-of-a-local-LLM-for-Gestational-Diabetes-Mellitus
 
 ---
 
@@ -28,7 +28,7 @@ Before running this project, ensure you have the following:
 2. Create a new notebook or upload the project files
 3. Upload the project files to your Colab environment:
    - `Data Collection.py`
-   - `Entity Extraction and Construction of Knowledge Graph.py`
+   - `Entity Extraction and Construction of Knowledge Graph.py` (or use the `_refined.py` version - recommended)
 
 ### Step 2: Setting Up Neo4j
 
@@ -106,6 +106,8 @@ This script:
 - Knowledge graph stored in Neo4j database
 - Graph visualization (if using Neo4j Browser)
 
+**Note:** A refactored version (`Entity Extraction and Construction of Knowledge Graph_refined.py`) is also available. This version maintains the same functionality but with improved code organization, reduced redundancy, and better maintainability. Both versions work identically, but the refined version is recommended for new users.
+
 ---
 
 ## How to Execute
@@ -114,7 +116,7 @@ This script:
 
 Before running the scripts, you need to update the credential placeholders in the code.
 
-#### In `Entity Extraction and Construction of Knowledge Graph.py`:
+#### In `Entity Extraction and Construction of Knowledge Graph.py` (or `_refined.py` version):
 
 Find and replace the following placeholders:
 
@@ -149,7 +151,7 @@ Find and replace the following placeholders:
 ### Step 3: Run Entity Extraction and Knowledge Graph Construction
 
 1. Ensure Step 2 is complete and you have PDF files in the `PDFs` folder
-2. Open `Entity Extraction and Construction of Knowledge Graph.py` in Colab
+2. Open `Entity Extraction and Construction of Knowledge Graph.py` (or `_refined.py` version) in Colab
 3. **Important**: Make sure all credentials are properly configured (Step 1)
 4. Run all cells or execute the entire script
 5. **Expected behavior:**
