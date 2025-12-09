@@ -269,4 +269,6 @@ For issues or questions, please refer to:
 
 ## Note
 
-In parallel, we have prototyped a live GDM chatbot based on this paper, where beta-testers will be able to access a public URL to interact with our model and ask domain-specific questions about gestational diabetes. All announcements, deployment steps, and progress logs will be maintained at the GitHub repository.
+In parallel with this study, we have developed a prototype of a live Gestational Diabetes Mellitus (GDM) chatbot based on the proposed methodology. The system is currently under deployment, after which beta testers will be able to access a public URL to interact with the model and pose domain-specific queries related to GDM.
+All deployment updates, announcements, and development progress are being systematically documented and maintained in the project’s GitHub repository:
+https://github.com/zuhealth-wellness/ChatbotforGDM
